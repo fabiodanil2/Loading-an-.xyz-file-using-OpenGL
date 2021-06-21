@@ -1,0 +1,20 @@
+﻿  LoadShaders.cpp
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\loadshaders.h(3): warning C4005: '_DEBUG': macro redefinition
+  c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\loadshaders.cpp: note: see previous definition of '_DEBUG'
+  Main.cpp
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\loadshaders.h(3): warning C4005: '_DEBUG': macro redefinition
+  c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp: note: see previous definition of '_DEBUG'
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(217): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(278): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(279): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(283): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(284): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(285): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(286): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\fabio\desktop\ironman_opgl\trabalho_pratico\trabalho_pratico\trabalho_pratico\main.cpp(313): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\fabio\Desktop\IronMan_OPGL\Trabalho_Pratico\Trabalho_Pratico\x64\Debug\vc120.pdb'; linking object as if no debug info
+  Trabalho_Pratico.vcxproj -> C:\Users\fabio\Desktop\IronMan_OPGL\Trabalho_Pratico\Trabalho_Pratico\x64\Debug\Trabalho_Pratico.exe
